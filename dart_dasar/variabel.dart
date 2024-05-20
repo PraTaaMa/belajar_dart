@@ -7,4 +7,8 @@ void main(){
     name = "Pratama"; 
     print(name);
 
+    //Deklarasi langsung
+    String nama = "PRATAMA";
+    print(nama);
+
 }
