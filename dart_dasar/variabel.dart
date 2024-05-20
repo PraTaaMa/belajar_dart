@@ -11,4 +11,8 @@ void main(){
     String nama = "PRATAMA";
     print(nama);
 
+    //Tipe Data: var
+    var namaku = "pratama";
+    print(namaku);
+
 }
