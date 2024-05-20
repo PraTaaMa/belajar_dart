@@ -12,7 +12,14 @@ void main(){
     print(nama);
 
     //Tipe Data: var
-    var namaku = "pratama";
-    print(namaku);
+    var vanama = "varpratama";
+    print(vanama);
+
+    //Tipe Data: final
+    final finama = "fipratama";
+    print(finama);
+    // error: Can't assign to the final variabel finama
+    //finama = "errfipratama";
+    //print(finama);
 
 }
